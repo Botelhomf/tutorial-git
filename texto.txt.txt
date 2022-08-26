@@ -1,1 +1,7 @@
 Ola mundo
+
+Comandos:
+Git Branch --> Lista os branchs
+Git Log --> Lista os commits
+Git Checkout <branch/commit> --> acessar o branch ou commit
+Git Status -->
